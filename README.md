@@ -1,0 +1,2 @@
+# EZPrimeNumber
+Prime Numbers Checker
